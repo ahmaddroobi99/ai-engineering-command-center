@@ -29,3 +29,8 @@ A previous homepage pointed at a Grok sandbox URL that does not survive outside 
 
 - [meridian](https://github.com/ahmaddroobi99/meridian)
 - [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab)
+
+---
+
+Account grouping: research first, undergraduate last — see the [profile README](https://github.com/ahmaddroobi99/ahmaddroobi99). GitHub cannot custom-sort the Repositories tab.
+
